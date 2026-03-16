@@ -1,0 +1,23 @@
+# Node modules
+node_modules/
+
+# Environment files
+.env
+.env.local
+
+# Next build
+.next/
+out/
+
+# Logs
+npm-debug.log*
+
+# Uploads (local file storage)
+Uploads/
+
+# OS
+.DS_Store
+Thumbs.db
+
+dist/
+build/
