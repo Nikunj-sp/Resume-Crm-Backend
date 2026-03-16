@@ -1,0 +1,22 @@
+# Node modules
+node_modules/
+
+# Environment files
+
+# Next build
+.next/
+out/
+
+# Logs
+npm-debug.log*
+
+# Uploads (local file storage)
+Uploads/
+
+# OS
+.DS_Store
+Thumbs.db
+
+dist/
+build/
+config.bat
